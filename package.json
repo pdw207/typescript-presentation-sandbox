@@ -1,0 +1,13 @@
+{
+  "name": "live-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Paul Wilson <pdw207@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --watch"
+  },
+  "dependencies": {
+    "typescript": "2.8.3"
+  }
+}
